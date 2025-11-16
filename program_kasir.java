@@ -15,7 +15,7 @@ public class Bonusprogramkasir {
         System.out.print("Jumlah Tepung \t: ");
         int tepung = kasir.nextInt();
            
-  	//harga barang
+     	//harga barang
         int Htelur = (telur * 10000);
         int Htepung = (tepung * 5000);
         int total = (Htelur + Htepung);
